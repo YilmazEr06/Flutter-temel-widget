@@ -49,7 +49,7 @@ class _MyHomePageState extends State<MyHomePage> {
             children: [
               Padding(
                 padding: EdgeInsets.all(5.0),
-                child: Text("Bu bir tekrar uygumasıdır amacı mevcut bilgiyi tekrar etmek ve pekiştirmek dir",
+                child: Text("Bu amacı mevcut bilgiyi tekrar etmek ve pekiştirmek dir",
                 textAlign: TextAlign.center),
               ),
             ],
